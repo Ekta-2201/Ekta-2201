@@ -4,6 +4,7 @@
 
 - 💬 Ask me about : **Python , C++ ,SQL**
 - 🌱 Interested in : **Data Science and Machine Learning**
+- 🧠 **extremely excited and open to learning further things**
 
 <!--     <h3 align="left">Connect with me:</h3>     -->
 <p align="left">
