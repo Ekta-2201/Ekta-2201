@@ -2,11 +2,11 @@
                                               
 <h4>🎓 Currently an undergraduate student in the field of computer science(BCA).</h4>
 
-- 💡Aspiring Software Developer.
-- 💬 Exploring **Web Dev, Python, and Data Structures**
-- 🌱 Interested in : **Data Science and Machine Learning**
+- 💡 Aspiring Software Developer.
+- 💬 Exploring **Web Dev, Python, and Data Structures.**
+- 🌱 Interested in : **Data Science and Machine Learning.**
 - 🔧 Building projects to learn and grow.
-- 🧠 **extremely excited and open to learning further things** 
+- 🧠 extremely excited and open to learning further things.
 
 
 
