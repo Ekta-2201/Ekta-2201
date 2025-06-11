@@ -2,9 +2,13 @@
                                               
 <h4>🎓 Currently an undergraduate student in the field of computer science(BCA).</h4>
 
-- 💬 Ask me about : **Python , C++ ,SQL**
+- 💡Aspiring Software Developer.
+- 💬 Exploring **Web Dev, Python, and Data Structures**
 - 🌱 Interested in : **Data Science and Machine Learning**
-- 🧠 **extremely excited and open to learning further things**
+- 🔧 Building projects to learn and grow.
+- 🧠 **extremely excited and open to learning further things** 
+
+
 
 <!--     <h3 align="left">Connect with me:</h3>     -->
 <p align="left">
