@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ekta-2201&label=Profile%20views&color=0e75b6&style=flat" alt="ekta-2201" /> </p>
 
-<h3 align="center">🎓 Currently an undergraduate student in the field of **computer science(BCA)**.</h3><br>
+<h3 align="center">🎓 Currently an undergraduate student in the field of Computer science(BCA).</h3><br>
 
 # 💫 About Me:          
 <br>💡 Aspiring Software Developer.
