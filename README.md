@@ -10,7 +10,7 @@
 <br>🌱 Interested in : Data Science and Machine Learning.
 <br>🔧 Building projects to learn and grow.
 <br>🧠 extremely excited and open to learning further things.
-<br>
+<br><br>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
