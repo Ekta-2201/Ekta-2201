@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3><center>🎓 Currently an undergraduate student in the field of computer science(BCA).</center></h3><br>
+   <h3><center>🎓 Currently an undergraduate student in the field of computer science(BCA).</center></h3><br>
 <br>💡 Aspiring Software Developer.<br>💬 Exploring Web Dev, Python, and Data Structures.
 <br>🌱 Interested in : Data Science and Machine Learning.
 <br>🔧 Building projects to learn and grow.
