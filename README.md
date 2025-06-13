@@ -12,8 +12,7 @@
 <br>🧠 extremely excited and open to learning further things.
 <br><br>
 
-<hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ekta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekta22" height="30" width="40" /></a>
 <a href="https://instagram.com/ekta22.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekta22.01" height="30" width="40" /></a>
