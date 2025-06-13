@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to EKTA's github👨‍💻</h1>
+<hr>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ekta-2201&label=Profile%20views&color=0e75b6&style=flat" alt="ekta-2201" /> </p>
 
@@ -27,9 +28,11 @@
 <hr>
 <h1 align="center">Achievement 🏆</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekta-2201&theme=darkhub" alt="ekta-2201" /></a> </p>
-
+<br>
+## &#x1f4c8; GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekta-2201&show_icons=true&locale=en&layout=compact" alt="ekta-2201" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekta-2201&show_icons=true&locale=en" alt="ekta-2201" /></p>
-
+<br>
+## &#x1f525; GitHub Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekta-2201&" alt="ekta-2201" /></p>
