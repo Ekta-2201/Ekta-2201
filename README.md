@@ -1,12 +1,12 @@
 # 💫 About Me:
-   <h3><center>🎓 Currently an undergraduate student in the field of computer science(BCA).</center></h3><br>
+   <h3>🎓 Currently an undergraduate student in the field of computer science(BCA).</h3>
 <br>💡 Aspiring Software Developer.<br>💬 Exploring Web Dev, Python, and Data Structures.
 <br>🌱 Interested in : Data Science and Machine Learning.
 <br>🔧 Building projects to learn and grow.
 <br>🧠 extremely excited and open to learning further things.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ekta22.01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ekta22/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pvtekta@gmail.com) 
 
 # 💻 Tech Stack:
