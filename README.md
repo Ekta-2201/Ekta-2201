@@ -42,6 +42,7 @@
 <br>
 
 --->
+<br>
 <h3 align="left">GitHub Streak : </h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ekta-2201&theme=nord&hide_border=true&border_radius=50.2&fire=FF7B05&currStreakLabel=FF7B05&ring=C76004A9&currStreakNum=FF7B05)](https://git.io/streak-stats)
