@@ -1,8 +1,10 @@
-<h2 align="center">Welcome to EKTA's github👨‍💻</h2><br>
+<h1 align="center">Welcome to EKTA's github👨‍💻</h1>
 
-<h3 align="center">🎓 Currently an undergraduate student in the field of computer science(BCA).</h3><br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ekta-2201&label=Profile%20views&color=0e75b6&style=flat" alt="ekta-2201" /> </p>
 
-# 💫 About Me:          <p align="right"> <img src="https://komarev.com/ghpvc/?username=ekta-2201&label=Profile%20views&color=0e75b6&style=flat" alt="ekta-2201" /> </p>
+<h3 align="center">🎓 Currently an undergraduate student in the field of **computer science(BCA)**.</h3><br>
+
+# 💫 About Me:          
 <br>💡 Aspiring Software Developer.
 <br>💬 Exploring Web Dev, Python, and Data Structures.
 <br>🌱 Interested in : Data Science and Machine Learning.
