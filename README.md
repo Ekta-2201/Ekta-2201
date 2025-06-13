@@ -19,13 +19,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ekta-2201&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<center>### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)</center>
 
-### 🔝 Top Contributed Repo
+<center> ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ekta-2201&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ekta-2201&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ekta-2201&icon=1&color=1)](https://visitcount.itsvg.in) </center>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
