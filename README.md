@@ -3,9 +3,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ekta-2201&label=Profile%20views&color=0e75b6&style=flat" alt="ekta-2201" /> </p>
 
 <h3 align="center">🎓 Currently an undergraduate student in the field of Computer science(BCA).</h3><br>
-
-# 💫 About Me:    
-<hr>
+   
+<h2 align="left" >💫 About Me :</h2><br> 
 <br>💡 Aspiring Software Developer.
 <br>💬 Exploring Web Dev, Python, and Data Structures.
 <br>🌱 Interested in : Data Science and Machine Learning.
