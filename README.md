@@ -4,7 +4,7 @@
 
 <h3 align="center">🎓 Currently an undergraduate student in the field of Computer science(BCA).</h3><br>
    
-<h2 align="left" >💫 About Me :</h2><br> 
+<h2 align="left" >💫 About Me :</h2>
 <br>💡 Aspiring Software Developer.
 <br>💬 Exploring Web Dev, Python, and Data Structures.
 <br>🌱 Interested in : Data Science and Machine Learning.
@@ -30,12 +30,23 @@
 <br>
 
 ## &#x1f4c8; GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekta-2201&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ekta-2201&theme=nord_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekta-2201&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekta-2201&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekta-2201&theme=nord_dark)
+
+<!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekta-2201&show_icons=true&locale=en&layout=compact" alt="ekta-2201" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ekta-2201&show_icons=true&locale=en" alt="ekta-2201" /></p>
 <br>
 
+--->
+
 ## &#x1f525; GitHub Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ekta-2201&theme=nord&hide_border=true&border_radius=50.2&fire=FF7B05&currStreakLabel=FF7B05&ring=C76004A9&currStreakNum=FF7B05)](https://git.io/streak-stats)
 <!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekta-2201&theme=darkhub" alt="ekta-2201" /></p>  --->
