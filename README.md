@@ -27,7 +27,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekta-2201&theme=darkhub" alt="ekta-2201" /></a> </p>
 <br>
 
-<h3 align="center">GitHub Stats : </h3>
+<h3 align="left ">GitHub Stats : </h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekta-2201&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ekta-2201&theme=nord_dark&utcOffset=8)
@@ -42,7 +42,7 @@
 <br>
 
 --->
-<h3 align="center">GitHub Streak : </h3>
+<h3 align="left">GitHub Streak : </h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ekta-2201&theme=nord&hide_border=true&border_radius=50.2&fire=FF7B05&currStreakLabel=FF7B05&ring=C76004A9&currStreakNum=FF7B05)](https://git.io/streak-stats)
 <!---
