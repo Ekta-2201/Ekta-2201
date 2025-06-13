@@ -1,7 +1,10 @@
+<h2 align="center">Welcome to EKTA's github👨‍💻</h2><br>
+
 <h3 align="center">🎓 Currently an undergraduate student in the field of computer science(BCA).</h3><br>
 
 # 💫 About Me:
-<br>💡 Aspiring Software Developer.<br>💬 Exploring Web Dev, Python, and Data Structures.
+<br>💡 Aspiring Software Developer.
+<br>💬 Exploring Web Dev, Python, and Data Structures.
 <br>🌱 Interested in : Data Science and Machine Learning.
 <br>🔧 Building projects to learn and grow.
 <br>🧠 extremely excited and open to learning further things.
@@ -9,8 +12,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekta-2201&label=Profile%20views&color=0e75b6&style=flat" alt="ekta-2201" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekta-2201" alt="ekta-2201" /></a> </p>
-
-- 💬 Ask me about **Python ,C++ ,SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
