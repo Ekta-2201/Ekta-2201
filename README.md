@@ -6,8 +6,8 @@
    
 <h2 align="center">💫 About Me :</h2>
 <br>💡 Aspiring Software Developer.
-<br>💬 Exploring Web Dev, Python, and Data Structures.
-<br>🌱 Interested in : Data Science and Machine Learning.
+<br>💬 Exploring Web Dev, Python, and SQL.
+<br>🌱 Interested in : Data Science , AI and Machine Learning.
 <br>🔧 Building projects to learn and grow.
 <br>🧠 extremely excited and open to learning further things.
 <br><br>
